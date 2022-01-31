@@ -6,17 +6,17 @@ A Python implementation of artificial intelligence search algorithms to solve pr
 <img src="https://github.com/rojinakashefi/Pacman-AI/blob/main/interactive.gif" width="540" />
 </p>
 
-1. Search Project
+1. **Search Project**
    - Implemented DFS, 
    - BFS, 
    - UCS,
    - Greedy Search, 
    - A* Search
-2. MultiAgent Project (Adversarial search)
+2. **MultiAgent Project (Adversarial search)**
    - Minimax
    - Alpha-beta pruning
    - Expectimax
-3. Markov Decision Processes & Reinforcemenet Learning
+3. **Markov Decision Processes & Reinforcemenet Learning**
    -  Value Iteration
    - Policy Iteration
    - Asynchronous value iteration
